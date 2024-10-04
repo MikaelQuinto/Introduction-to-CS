@@ -89,3 +89,38 @@ Major tech companies distribute their servers in data centers strategically loca
 Global companies maintain data centers on multiple continents to ensure the availability and redundancy of their services worldwide.
   
 In summary, hardware and numeric systems are the pillars of modern technological infrastructure. Together with logic gates and logical operations, they enable computational systems to perform complex tasks. Leading tech companies leverage these technologies with distributed servers to provide efficient global services.
+
+# WEEK 3 - Operating Systems
+
+An **Operating System (OS)** is the software that manages the hardware and software resources of a computer. It serves as a bridge between applications and the hardware, ensuring that programs can run smoothly while managing system resources like memory, processing power, and input/output devices.
+
+## Classification of Operating Systems
+
+Operating systems can be classified based on their characteristics and functionalities:
+
+- **Single-user, single-tasking**: Allows only one user to perform one task at a time. Example: MS-DOS.
+- **Single-user, multi-tasking**: Allows one user to run multiple applications simultaneously. Example: Windows, macOS.
+- **Multi-user**: Supports multiple users accessing the system at the same time. Example: Unix, Linux.
+- **Real-time OS (RTOS)**: Used in embedded systems, where tasks must be completed within strict time constraints. Example: VxWorks, FreeRTOS.
+- **Distributed OS**: Manages a group of independent computers and makes them appear as a single system to the user. Example: Google’s Fuchsia, Plan 9.
+- **Mobile OS**: Designed specifically for mobile devices. Example: Android, iOS.
+
+## Cloud-based Operating Systems
+
+**Cloud-based operating systems** enable users to access applications and services hosted in the cloud, leveraging virtualization and distributed computing. Some examples include:
+
+- **Google Chrome OS**: A lightweight OS relying heavily on cloud applications and storage.
+- **Amazon Web Services (AWS)**: Provides cloud services that host OSes in virtual environments (Linux, Windows Server).
+- **Microsoft Azure**: Supports a wide range of OSes in cloud-based virtual machines.
+
+Cloud-based OSes offer scalability, flexibility, and efficient resource management for businesses.
+
+## Access to Khipu (University Node)
+
+**Khipu** is a high-performance **computing node** within a university, designed to handle tasks such as:
+
+- **Scientific simulations**
+- **Big data analysis**
+- **Machine learning model training**
+
+Nodes like Khipu are critical in **distributed computing** environments and can be accessed via specific software or network protocols to utilize their computational power remotely.
