@@ -384,3 +384,42 @@ Popular game engines include **Unity**, **Unreal Engine**, and **Godot**.
 - **Data Visualization**: Represents complex data visually.
 
 Applications include flight simulators, architectural visualizations, and scientific modeling.
+
+# WEEK 10 - Data Visualization
+
+**Data Visualization** is the graphical representation of information, allowing for easier interpretation and insights.
+
+## Dashboards
+
+**Dashboards** consolidate and display key performance indicators (KPIs) for monitoring and analysis. Key features include:
+
+- **Widgets**: Visual elements like graphs and gauges.
+- **Interactivity**: Users can filter and explore data.
+- **Customization**: Tailored displays for specific users or objectives.
+
+Dashboards are widely used in business intelligence and operational monitoring.
+
+## High-Dimensional Data Treatment
+
+**High-dimensional data treatment** involves techniques for visualizing datasets with many variables. Key methods include:
+
+- **Dimensionality Reduction**: Techniques like **PCA** and **t-SNE**.
+- **Multidimensional Scaling (MDS)**: Visualizes similarities in lower dimensions.
+- **Parallel Coordinates**: Plots each dimension as a vertical axis.
+
+These techniques help identify patterns in complex datasets.
+
+## Graphs and Word Processing
+
+**Graphs** represent relationships in data. Key types include:
+
+- **Bar Charts**: Compare categories using rectangular bars.
+- **Line Graphs**: Show trends over time.
+- **Pie Charts**: Represent proportions of a whole.
+
+Word processing tools can also incorporate visual elements:
+
+- **Word Clouds**: Represent text frequency visually.
+- **Infographics**: Combine graphics and text for clear information.
+
+These visualization techniques enhance accessibility and understanding of data, facilitating informed decision-making.
