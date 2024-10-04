@@ -25,7 +25,7 @@ Las empresas tecnológicas globales son actores clave en el desarrollo e impleme
   
 Estas empresas impulsan la innovación mediante la investigación y el desarrollo de nuevas tecnologías. Además, muchas están liderando la transición hacia la computación en la nube, inteligencia artificial, blockchain y 5G, tecnologías que transforman industrias enteras.
 
-# Ventajas de Computer Science
+## Ventajas de Computer Science
 La Ciencia de la Computación ofrece una serie de ventajas tanto a nivel individual como industrial:
 
 - **Altas oportunidades laborales:** La demanda de profesionales en este campo es alta y sigue creciendo, ya que todas las industrias requieren expertos en tecnología para mantenerse competitivas.
