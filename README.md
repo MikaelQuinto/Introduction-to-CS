@@ -1,8 +1,8 @@
-# Introduction to CS
+# Introduction to CS 💻
 - **Name:** Mikael Quinto
-- **Return Link:** 
+- **Return Link:**https://github.com/MikaelQuinto/CS-ROADMAP 
   
-# WEEK 1 - Introduction
+# WEEK 1 - Introduction 📘
 ## Computer Science in Industry
   
 Computer Science is a discipline that covers the study of computational systems, programming, algorithm design, and the development of innovative technologies. In industry, its impact is broad and essential, as modern companies rely on digital systems for their daily operations, from automating processes to large-scale data analysis. Computer science professionals play a crucial role in sectors such as:
@@ -40,7 +40,7 @@ Computer Science offers a number of advantages both individually and industriall
   
 In summary, computer science is the foundation upon which digital transformation in the global industry is built, and its relevance continues to grow in an increasingly connected and technology-dependent world.
 
-# WEEK 2 - Hardware and Numeric Systems
+# WEEK 2 - Hardware and Numeric Systems 🖥️
   
 Hardware refers to the physical components of a computing system, such as processors, memory, hard drives, and input/output devices. In contrast, numeric systems are the mathematical foundation that defines how computers process and store information, primarily using binary numbers (0 and 1). The combination of hardware and numeric systems enables efficient data processing and the implementation of advanced technologies such as the Internet of Things (IoT).
 
@@ -65,32 +65,13 @@ The Internet of Things (IoT) connects physical devices to the internet, allowing
 
 IoT enables applications such as smart homes, connected cities, automated factories, remote health monitoring, and more. It requires reliable and energy-efficient hardware optimized for high performance in diverse environments.
   
-## Description of Numeric Systems
-
-Numeric systems are the basis of how computers operate. The most common ones are:
-
-- **Binary System:** Used in computers, it is based on two digits (0 and 1) to represent data. All digital processing is reduced to operations with binary numbers.
-- **Decimal System:** The system we use daily, based on ten digits (0-9).
-- **Hexadecimal System:** Used in programming and hardware design, it represents numbers in base 16, using digits from 0 to 9 and letters from A to F (A = 10, B = 11, etc.).
-  
-Numeric systems facilitate efficient data processing and storage in electronic devices.
-
 ## Servers
 A server is a computer system that provides resources, data, and services to other devices connected to a network, called clients. Servers are fundamental to modern technological infrastructure, supporting web applications, databases, and cloud services.
-
-### Location of Servers of Global Technology Companies
-Major tech companies distribute their servers in data centers strategically located around the world to optimize speed, reliability, and access to their services. Common data center locations include:
-
-- **United States:** Silicon Valley, Virginia, and areas like Texas and North Carolina.
-- **Europe:** Netherlands, Ireland, Germany, and Sweden.
-- **Asia:** Singapore, Hong Kong, Japan, and South Korea.
-- **Latin America:** Brazil and Chile.
-  
 Global companies maintain data centers on multiple continents to ensure the availability and redundancy of their services worldwide.
-  
+   
 In summary, hardware and numeric systems are the pillars of modern technological infrastructure. Together with logic gates and logical operations, they enable computational systems to perform complex tasks. Leading tech companies leverage these technologies with distributed servers to provide efficient global services.
 
-# WEEK 3 - Operating Systems
+# WEEK 3 - Operating Systems 🛠️
 
 An **Operating System (OS)** is the software that manages the hardware and software resources of a computer. It serves as a bridge between applications and the hardware, ensuring that programs can run smoothly while managing system resources like memory, processing power, and input/output devices.
 
@@ -115,17 +96,7 @@ Operating systems can be classified based on their characteristics and functiona
 
 Cloud-based OSes offer scalability, flexibility, and efficient resource management for businesses.
 
-## Access to Khipu (University Node)
-
-**Khipu** is a high-performance **computing node** within a university, designed to handle tasks such as:
-
-- **Scientific simulations**
-- **Big data analysis**
-- **Machine learning model training**
-
-Nodes like Khipu are critical in **distributed computing** environments and can be accessed via specific software or network protocols to utilize their computational power remotely.
-
-# WEEK 4 - Software Engineering
+# WEEK 4 - Software Engineering 👨‍💻
 
 **Software Engineering** involves the systematic design, development, and maintenance of software systems, ensuring efficiency, reliability, and scalability.
 
@@ -157,7 +128,7 @@ Common architectures include:
 
 Git facilitates collaborative development, allowing teams to work on multiple features in parallel, revert to previous versions, and review changes before merging them into the main branch.
 
-# WEEK 5 - Data Structures and Lambda Notation
+# WEEK 5 - Data Structures and Lambda Notation 🗂️
 
 **Data structures** organize and store data efficiently, supporting a variety of applications. **Lambda notation** defines anonymous functions, frequently used in functional programming.
 
@@ -224,7 +195,7 @@ Data structures used for storing and querying spatial data.
 
 **Lambda notation** defines anonymous functions.
 
-# WEEK 6 - Databases I
+# WEEK 6 - Databases I 🗄️
 
 **Databases** are structured collections of data, and **Database Management Systems (DBMS)** provide the tools to manage them. **SQL** is the standard language used to interact with relational databases.
 
@@ -265,7 +236,7 @@ Important SQL concepts:
 
 SQL is essential for data querying, analytics, and business applications.
 
-# WEEK 7 - Databases II
+# WEEK 7 - Databases II 🛢️
 
 **Databases II** explores advanced database technologies such as **NoSQL**, **Big Data applications**, and **Blockchain applications**, addressing the limitations of traditional databases.
 
@@ -312,7 +283,7 @@ Common blockchain applications:
 
 Blockchain technology is being adopted in finance, healthcare, supply chain, and legal sectors for efficiency and security.
 
-# WEEK 8 - Full Stack Development
+# WEEK 8 - Full Stack Development 🌐
 
 **Full Stack Development** involves working on both the front end and back end of web applications. A Full Stack Developer is skilled in various technologies for creating complete web solutions.
 
@@ -349,7 +320,7 @@ Ensures web applications work well on various devices and are accessible to all 
 - **Semantic HTML**: Improves accessibility and SEO.
 - **ARIA**: Attributes that enhance accessibility for users with disabilities.
 
-# WEEK 9 - Computer Graphics
+# WEEK 9 - Computer Graphics 🖼️
 
 **Computer Graphics** focuses on creating visual content using computers, encompassing various techniques for generating images and simulations.
 
@@ -385,7 +356,7 @@ Popular game engines include **Unity**, **Unreal Engine**, and **Godot**.
 
 Applications include flight simulators, architectural visualizations, and scientific modeling.
 
-# WEEK 10 - Data Visualization
+# WEEK 10 - Data Visualization 📊
 
 **Data Visualization** is the graphical representation of information, allowing for easier interpretation and insights.
 
@@ -424,7 +395,7 @@ Word processing tools can also incorporate visual elements:
 
 These visualization techniques enhance accessibility and understanding of data, facilitating informed decision-making.
 
-# WEEK 11 - Natural Language Processing I
+# WEEK 11 - Natural Language Processing I 🗣️
 
 **Natural Language Processing (NLP)** focuses on the interaction between computers and human language, developing algorithms to analyze natural language data.
 
@@ -460,7 +431,7 @@ Applications include spam detection and sentiment analysis.
 
 NLP showcases versatility across industries, from customer service to content creation.
 
-# WEEK 12 - Natural Language Processing II
+# WEEK 12 - Natural Language Processing II 🧠
 
 **Natural Language Processing II** focuses on advanced applications and techniques in NLP, including chatbots and sentiment analysis.
 
@@ -486,7 +457,7 @@ Chatbots streamline communication and enhance customer satisfaction.
 
 Sentiment analysis is a powerful tool for understanding public opinion and informing business decisions.
 
-# WEEK 13 - Computer Vision I
+# WEEK 13 - Computer Vision I 👁️
 
 **Computer Vision I** enables computers to interpret and understand visual information from the world, focusing on image processing and recognition.
 
@@ -522,7 +493,7 @@ Biometric systems enhance security and convenience in various applications.
 
 This approach provides relevant results based on actual content, enhancing user experience.
 
-# WEEJ 14 - Computer Vision II
+# WEEk 14 - Computer Vision II 📷
 
 **Computer Vision II** explores advanced applications and techniques in computer vision, focusing on industry applications and deep learning.
 
@@ -549,7 +520,7 @@ These applications demonstrate the transformative impact of computer vision acro
 
 Deep learning drives advancements in computer vision, enabling machines to understand visual information effectively.
 
-# WEEK 15 - Artificial Intelligence, Parallel Processing, Big Data, and Data Science
+# WEEK 15 - Artificial Intelligence, Parallel Processing, Big Data, and Data Science 🤖
 
 **Artificial Intelligence (AI)**, along with **parallel processing**, **big data**, and **data science**, represents a multidisciplinary approach to understanding and utilizing data. This section covers various fields within AI, human-AI interaction, data analytics, and methodologies for managing large datasets.
 
@@ -617,7 +588,7 @@ Parallel processing enhances computational efficiency.
 
 Data science is essential for leveraging data strategically.
 
-# WEEK 16 - Cybersecurity
+# WEEK 16 - Cybersecurity 🔒
 
 **Cybersecurity** is the practice of protecting systems, networks, and programs from digital attacks and unauthorized access. This section explores key aspects of cybersecurity, including its importance, threats, and strategies for safeguarding information.
 
