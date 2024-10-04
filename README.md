@@ -124,3 +124,35 @@ Cloud-based OSes offer scalability, flexibility, and efficient resource manageme
 - **Machine learning model training**
 
 Nodes like Khipu are critical in **distributed computing** environments and can be accessed via specific software or network protocols to utilize their computational power remotely.
+
+# WEEK 4 - Software Engineering
+
+**Software Engineering** involves the systematic design, development, and maintenance of software systems, ensuring efficiency, reliability, and scalability.
+
+## Software Architecture
+
+**Software architecture** is the high-level structure of a software system, defining the interaction between components. Key elements include:
+
+- **Modularity**: Dividing the system into smaller components.
+- **Scalability**: Ensuring the system can handle growth.
+- **Security**: Protecting the system from vulnerabilities.
+- **Performance**: Optimizing system response and efficiency.
+
+Common architectures include:
+
+- **Monolithic Architecture**: A unified, tightly integrated system.
+- **Microservices Architecture**: Independent, scalable services.
+- **Client-Server Architecture**: Servers provide services to client devices.
+- **Event-driven Architecture**: The system responds to real-time events.
+
+## Version Control with Git
+
+**Git** is a distributed version control system for managing and tracking changes in source code. Key concepts in Git include:
+
+- **Repository (Repo)**: A directory storing project files and history.
+- **Commit**: A snapshot of the project at a specific point in time.
+- **Branch**: A separate version of the codebase for feature development.
+- **Merge**: Integrating changes from one branch into another.
+- **Pull Request**: A request to merge changes after review.
+
+Git facilitates collaborative development, allowing teams to work on multiple features in parallel, revert to previous versions, and review changes before merging them into the main branch.
