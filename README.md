@@ -423,3 +423,128 @@ Word processing tools can also incorporate visual elements:
 - **Infographics**: Combine graphics and text for clear information.
 
 These visualization techniques enhance accessibility and understanding of data, facilitating informed decision-making.
+
+# WEEK 11 - Natural Language Processing I
+
+**Natural Language Processing (NLP)** focuses on the interaction between computers and human language, developing algorithms to analyze natural language data.
+
+## Text Processing
+
+**Text processing** involves manipulating and analyzing text data. Key techniques include:
+
+- **Tokenization**: Breaking text into smaller units (tokens).
+- **Normalization**: Standardizing text format (lowercasing, stemming).
+- **Stop Words Removal**: Eliminating common words that add noise.
+- **Part-of-Speech Tagging**: Identifying grammatical parts of speech.
+
+These techniques form the foundation for advanced NLP tasks.
+
+## Text Classification
+
+**Text classification** categorizes text into predefined categories. Key concepts include:
+
+- **Supervised Learning**: Training on labeled data using algorithms like **Naive Bayes** and **SVM**.
+- **Unsupervised Learning**: Grouping text based on similarity (e.g., **k-means clustering**).
+- **Evaluation Metrics**: Measures like accuracy and F1 score assess model performance.
+
+Applications include spam detection and sentiment analysis.
+
+## Applications of Natural Language Processing
+
+**NLP applications** address real-world language challenges. Common applications include:
+
+- **Sentiment Analysis**: Determining sentiment in text for social media monitoring.
+- **Chatbots and Virtual Assistants**: Understanding and responding to user queries.
+- **Machine Translation**: Automatically translating text (e.g., **Google Translate**).
+- **Information Retrieval**: Enhancing search engines to provide relevant results.
+
+NLP showcases versatility across industries, from customer service to content creation.
+
+# WEEK 12 - Natural Language Processing II
+
+**Natural Language Processing II** focuses on advanced applications and techniques in NLP, including chatbots and sentiment analysis.
+
+## Integration of Chatbots into Social Media
+
+**Integration of chatbots into social media** enhances user engagement and support. Key aspects include:
+
+- **Platform Integration**: Deploying chatbots on platforms like Facebook Messenger and WhatsApp.
+- **Natural Language Understanding (NLU)**: Understanding user queries for appropriate responses.
+- **Automation of Customer Service**: Handling FAQs and providing information without human intervention.
+- **User Experience**: Improving satisfaction through quick, relevant responses and personalized interactions.
+
+Chatbots streamline communication and enhance customer satisfaction.
+
+## Sentiment Analysis
+
+**Sentiment analysis** determines the emotional tone behind words, helping businesses understand public sentiment. Key elements include:
+
+- **Text Classification Techniques**: Categorizing text as positive, negative, or neutral using algorithms.
+- **Lexicon-Based Approaches**: Utilizing predefined lists of words with sentiment scores for analysis.
+- **Applications in Business**: Monitoring brand reputation and analyzing customer feedback.
+- **Challenges**: Addressing sarcasm detection and context interpretation.
+
+Sentiment analysis is a powerful tool for understanding public opinion and informing business decisions.
+
+# WEEK 13 - Computer Vision I
+
+**Computer Vision I** enables computers to interpret and understand visual information from the world, focusing on image processing and recognition.
+
+## Digital Image Processing
+
+**Digital image processing** involves manipulating digital images for enhancement and analysis. Key techniques include:
+
+- **Image Enhancement**: Improving quality through contrast adjustment and filtering.
+- **Image Restoration**: Correcting degraded images using algorithms like deblurring.
+- **Image Segmentation**: Dividing images into meaningful segments for analysis.
+- **Feature Extraction**: Identifying characteristics or patterns in images.
+
+These techniques serve as the foundation for accurate analysis in computer vision.
+
+## Biometric Recognition
+
+**Biometric recognition** uses unique characteristics for identification or verification. Key aspects include:
+
+- **Fingerprint Recognition**: Analyzing patterns on fingers for identification.
+- **Facial Recognition**: Identifying individuals by facial features.
+- **Iris Recognition**: Analyzing unique iris patterns for identification.
+- **Voice Recognition**: Identifying individuals based on vocal characteristics.
+
+Biometric systems enhance security and convenience in various applications.
+
+## Content-Based Image and Audio Retrieval
+
+**Content-based retrieval** searches multimedia content based on its actual features. Key elements include:
+
+- **Image Retrieval**: Searching images based on visual features (color, shape).
+- **Audio Retrieval**: Analyzing audio features for similarity in content.
+- **Applications**: Used in digital libraries, stock photo agencies, and music streaming services.
+
+This approach provides relevant results based on actual content, enhancing user experience.
+
+# WEEJ 14 - Computer Vision II
+
+**Computer Vision II** explores advanced applications and techniques in computer vision, focusing on industry applications and deep learning.
+
+## Applications of Computer Vision in Industry
+
+**Applications of computer vision in industry** enhance processes and enable automation. Key areas include:
+
+- **Manufacturing**: Used for quality control and defect detection in production lines.
+- **Healthcare**: Aids in diagnosing diseases through medical imaging analysis.
+- **Retail**: Facilitates inventory management and automated checkout systems.
+- **Autonomous Vehicles**: Enables self-driving cars to perceive and navigate surroundings.
+- **Agriculture**: Monitors crop health and automates harvesting processes.
+
+These applications demonstrate the transformative impact of computer vision across various industries.
+
+## Deep Learning
+
+**Deep learning** utilizes neural networks to analyze complex data, including images. Key aspects include:
+
+- **Convolutional Neural Networks (CNNs)**: Designed for image processing and feature detection.
+- **Transfer Learning**: Uses pre-trained models to improve performance with limited data.
+- **Generative Adversarial Networks (GANs)**: Generates new images through adversarial training.
+- **Applications**: Used in facial recognition, medical image analysis, and augmented reality.
+
+Deep learning drives advancements in computer vision, enabling machines to understand visual information effectively.
