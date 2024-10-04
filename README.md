@@ -311,3 +311,76 @@ Common blockchain applications:
 - **Identity Management**: Provides secure and verifiable digital identities.
 
 Blockchain technology is being adopted in finance, healthcare, supply chain, and legal sectors for efficiency and security.
+
+# WEEK 8 - Full Stack Development
+
+**Full Stack Development** involves working on both the front end and back end of web applications. A Full Stack Developer is skilled in various technologies for creating complete web solutions.
+
+## Front-End Development
+
+Focuses on user interface (UI) and user experience (UX). Key technologies include:
+
+- **HTML**: Structures web content.
+- **CSS**: Styles and layouts.
+- **JavaScript**: Enables interactive elements.
+- **Frameworks**: Tools like **React**, **Angular**, and **Vue.js** enhance development.
+
+## Back-End Development
+
+Involves server-side programming and database management. Key components include:
+
+- **Server-Side Languages**: Examples are **Node.js**, **Python**, **Java**, **Ruby**, **PHP**.
+- **Databases**: Systems like **MySQL**, **PostgreSQL**, **MongoDB**.
+- **APIs**: Enable communication between front end and back end (using **REST** or **GraphQL**).
+
+## DevOps and Deployment
+
+Integrates development and operations for efficient application deployment. Key aspects include:
+
+- **Version Control**: Tools like **Git** and **GitHub**.
+- **Containerization**: Technologies like **Docker**.
+- **CI/CD**: Automates testing and deployment processes.
+
+## Responsive Design and Accessibility
+
+Ensures web applications work well on various devices and are accessible to all users. Techniques include:
+
+- **Media Queries**: CSS styles based on device characteristics.
+- **Semantic HTML**: Improves accessibility and SEO.
+- **ARIA**: Attributes that enhance accessibility for users with disabilities.
+
+# WEEK 9 - Computer Graphics
+
+**Computer Graphics** focuses on creating visual content using computers, encompassing various techniques for generating images and simulations.
+
+## Primitive Graphics
+
+**Primitive graphics** are the basic building blocks for creating images. Key concepts include:
+
+- **Points**: Defined by coordinates.
+- **Lines**: Connect two endpoints.
+- **Shapes**: Basic geometric forms like triangles and rectangles.
+- **Polygons**: Multi-sided shapes for complex designs.
+
+Primitive graphics form the foundation for advanced techniques such as vector and raster graphics.
+
+## Game Engines
+
+**Game engines** are software platforms for developing video games, providing tools for:
+
+- **Rendering**: Processes and displays graphics (e.g., **OpenGL**, **DirectX**).
+- **Physics Simulation**: Enables realistic object interactions.
+- **Scripting**: Implements game logic (e.g., **C#** in Unity).
+- **Asset Management**: Organizes game assets like models and textures.
+
+Popular game engines include **Unity**, **Unreal Engine**, and **Godot**.
+
+## Simulations
+
+**Simulations** create virtual representations of real-world systems for analysis and prediction. Key aspects include:
+
+- **Realism**: Accurate representation of conditions.
+- **Interactivity**: Users can engage and affect outcomes.
+- **Data Visualization**: Represents complex data visually.
+
+Applications include flight simulators, architectural visualizations, and scientific modeling.
