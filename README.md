@@ -223,3 +223,44 @@ Data structures used for storing and querying spatial data.
 ## Lambda Notation
 
 **Lambda notation** defines anonymous functions.
+
+# WEEK 6 - Databases I
+
+**Databases** are structured collections of data, and **Database Management Systems (DBMS)** provide the tools to manage them. **SQL** is the standard language used to interact with relational databases.
+
+## Database Management Systems (DBMS)
+
+A **DBMS** is software that manages databases and allows users to create, retrieve, update, and delete data. Common types include:
+
+- **Relational DBMS (RDBMS)**: Stores data in tables with relationships. Examples: **MySQL**, **PostgreSQL**.
+- **NoSQL DBMS**: Handles unstructured data, offering flexibility. Examples: **MongoDB**, **Cassandra**.
+- **Object-oriented DBMS (OODBMS)**: Stores data as objects. Examples: **db4o**, **ObjectDB**.
+- **Hierarchical DBMS**: Data is structured like a tree with parent-child relationships. Example: **IMS**.
+
+Key features of DBMS:
+
+- **Data integrity**
+- **Concurrency control**
+- **Backup and recovery**
+- **Security**
+
+## Structured Query Language (SQL)
+
+**SQL** is used to manage and manipulate relational databases. Categories of SQL commands include:
+
+- **DQL (Data Query Language)**: Queries data using `SELECT`.
+  - Example: `SELECT * FROM users WHERE age > 30;`
+- **DDL (Data Definition Language)**: Defines and modifies schema with commands like `CREATE TABLE`.
+  - Example: `CREATE TABLE employees (id INT, name VARCHAR(50));`
+- **DML (Data Manipulation Language)**: Modifies data using `INSERT`, `UPDATE`, `DELETE`.
+  - Example: `INSERT INTO employees (id, name) VALUES (1, 'John');`
+- **DCL (Data Control Language)**: Manages permissions with `GRANT` and `REVOKE`.
+  - Example: `GRANT SELECT ON employees TO user;`
+
+Important SQL concepts:
+
+- **Joins**: Combine data from multiple tables.
+- **Indexes**: Speed up data retrieval.
+- **Transactions**: Ensure data integrity, following **ACID** principles (Atomicity, Consistency, Isolation, Durability).
+
+SQL is essential for data querying, analytics, and business applications.
