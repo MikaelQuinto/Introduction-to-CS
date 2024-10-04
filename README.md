@@ -1,6 +1,7 @@
 # Introduction to CS
 - **Name:** Mikael Quinto
 - **Course Code:** CS1000
+- **Return Link:** 
   
 # WEEK 1 - Introduction
 ## Computer Science in Industry
