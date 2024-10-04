@@ -1,1 +1,1 @@
-# Introduction-to-CS
+# Introduction to CS
