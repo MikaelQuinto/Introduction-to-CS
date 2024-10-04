@@ -48,10 +48,10 @@ Hardware refers to the physical components of a computing system, such as proces
   
 Logic gates are fundamental components in the design of digital circuits, essential for the operation of processors and other electronic devices. These gates process binary signals (0s and 1s) and perform basic logical operations such as:
   
-- AND: The output is true if both inputs are true.
-- OR: The output is true if at least one input is true.
-- NOT: Inverts the input value.
-- XOR: The output is true if the inputs are different.
+- **AND:** The output is true if both inputs are true.
+- **OR:** The output is true if at least one input is true.
+- **NOT:** Inverts the input value.
+- **XOR:** The output is true if the inputs are different.
   
 Logic gates are combined into more complex circuits, such as flip-flops and registers, to form processors and other key hardware elements.
   
@@ -59,9 +59,9 @@ Logic gates are combined into more complex circuits, such as flip-flops and regi
   
 The Internet of Things (IoT) connects physical devices to the internet, allowing interaction and real-time data exchange. The hardware that supports IoT includes:
   
-Sensors: Collect environmental data (temperature, pressure, humidity, motion, etc.).
-Microcontrollers: Small processors that control connected devices and perform simple calculations.
-Communication modules: Enable connection to networks, such as Wi-Fi, Bluetooth, or LTE modules.
+- **Sensors:** Collect environmental data (temperature, pressure, humidity, motion, etc.).
+- **Microcontrollers:** Small processors that control connected devices and perform simple calculations.
+- **Communication modules:** Enable connection to networks, such as Wi-Fi, Bluetooth, or LTE modules.
 
 IoT enables applications such as smart homes, connected cities, automated factories, remote health monitoring, and more. It requires reliable and energy-efficient hardware optimized for high performance in diverse environments.
   
@@ -69,22 +69,23 @@ IoT enables applications such as smart homes, connected cities, automated factor
 
 Numeric systems are the basis of how computers operate. The most common ones are:
 
-Binary System: Used in computers, it is based on two digits (0 and 1) to represent data. All digital processing is reduced to operations with binary numbers.
-Decimal System: The system we use daily, based on ten digits (0-9).
-Hexadecimal System: Used in programming and hardware design, it represents numbers in base 16, using digits from 0 to 9 and letters from A to F (A = 10, B = 11, etc.).
+- **Binary System:** Used in computers, it is based on two digits (0 and 1) to represent data. All digital processing is reduced to operations with binary numbers.
+- **Decimal System:** The system we use daily, based on ten digits (0-9).
+- **Hexadecimal System:** Used in programming and hardware design, it represents numbers in base 16, using digits from 0 to 9 and letters from A to F (A = 10, B = 11, etc.).
+  
 Numeric systems facilitate efficient data processing and storage in electronic devices.
 
-## 2.5. Servers
+## Servers
 A server is a computer system that provides resources, data, and services to other devices connected to a network, called clients. Servers are fundamental to modern technological infrastructure, supporting web applications, databases, and cloud services.
 
 **Location of Servers of Global Technology Companies**  
 Major tech companies distribute their servers in data centers strategically located around the world to optimize speed, reliability, and access to their services. Common data center locations include:
 
-- United States: Silicon Valley, Virginia, and areas like Texas and North Carolina.
-- Europe: Netherlands, Ireland, Germany, and Sweden.
-- Asia: Singapore, Hong Kong, Japan, and South Korea.
-- Latin America: Brazil and Chile.
+- **United States:** Silicon Valley, Virginia, and areas like Texas and North Carolina.
+- **Europe:** Netherlands, Ireland, Germany, and Sweden.
+- **Asia:** Singapore, Hong Kong, Japan, and South Korea.
+- **Latin America:** Brazil and Chile.
   
 Global companies maintain data centers on multiple continents to ensure the availability and redundancy of their services worldwide.
-
+  
 In summary, hardware and numeric systems are the pillars of modern technological infrastructure. Together with logic gates and logical operations, they enable computational systems to perform complex tasks. Leading tech companies leverage these technologies with distributed servers to provide efficient global services.
