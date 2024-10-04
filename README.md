@@ -156,3 +156,70 @@ Common architectures include:
 - **Pull Request**: A request to merge changes after review.
 
 Git facilitates collaborative development, allowing teams to work on multiple features in parallel, revert to previous versions, and review changes before merging them into the main branch.
+
+# WEEK 5 - Data Structures and Lambda Notation
+
+**Data structures** organize and store data efficiently, supporting a variety of applications. **Lambda notation** defines anonymous functions, frequently used in functional programming.
+
+## Linear Data Structures
+
+Linear data structures store elements sequentially. Examples include:
+
+- **Arrays**: Contiguous memory storage.
+- **Linked Lists**: Nodes with pointers to the next node.
+- **Stacks**: Last In, First Out (LIFO).
+- **Queues**: First In, First Out (FIFO).
+
+## Recommendation Systems
+
+**Recommendation systems** use algorithms and data structures to suggest content.
+
+### B+ Trees
+
+**B+ Trees** are balanced trees used in databases for efficient data retrieval, supporting:
+
+- **Fast range queries**.
+- **Balanced structure**.
+
+### Binary Search Trees (BST)
+
+**BST** organizes nodes such that left children have values less than their parent and right children have greater values. Efficient for:
+
+- **Searching** in O(log n) time.
+
+## Geolocation
+
+Data structures used for storing and querying spatial data.
+
+### R-Trees
+
+**R-Trees** are used in geographical indexing and spatial databases, allowing:
+
+- **Efficient spatial queries** with bounding boxes.
+
+### Splay Trees
+
+**Splay Trees** self-adjust and bring frequently accessed nodes to the root, optimizing for:
+
+- **Amortized time complexity** for frequent access.
+
+## NoSQL Databases
+
+**NoSQL** databases handle large-scale, unstructured data.
+
+### MapReduce
+
+**MapReduce** processes large datasets in parallel:
+
+- **Map**: Transforms input into key-value pairs.
+- **Reduce**: Aggregates results.
+
+### HashMaps
+
+**HashMaps** store key-value pairs, offering O(1) access time, and are used in:
+
+- **NoSQL databases** and **caching**.
+
+## Lambda Notation
+
+**Lambda notation** defines anonymous functions.
