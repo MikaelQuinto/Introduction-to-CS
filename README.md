@@ -1,5 +1,5 @@
 # Introduction to CS
-**Name:** Mikael Quinto
-**Course Code:** CS1000
+- **Name:** Mikael Quinto
+- **Course Code:** CS1000
 
 # WEEK 1
