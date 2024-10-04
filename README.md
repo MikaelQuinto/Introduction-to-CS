@@ -264,3 +264,50 @@ Important SQL concepts:
 - **Transactions**: Ensure data integrity, following **ACID** principles (Atomicity, Consistency, Isolation, Durability).
 
 SQL is essential for data querying, analytics, and business applications.
+
+# WEEK 7 - Databases II
+
+**Databases II** explores advanced database technologies such as **NoSQL**, **Big Data applications**, and **Blockchain applications**, addressing the limitations of traditional databases.
+
+## NoSQL
+
+**NoSQL** databases are designed to handle unstructured or semi-structured data. Key features include:
+
+- **Schema flexibility**: No fixed schema required.
+- **Horizontal scalability**: Easy to scale out by adding servers.
+- **High performance**: Optimized for high read and write loads.
+
+Common types of NoSQL databases:
+
+- **Document Stores**: Store data as documents (e.g., **MongoDB**, **CouchDB**).
+- **Key-Value Stores**: Use key-value pairs for storage (e.g., **Redis**, **DynamoDB**).
+- **Column Family Stores**: Organize data in columns (e.g., **Cassandra**, **HBase**).
+- **Graph Databases**: Handle complex relationships (e.g., **Neo4j**, **ArangoDB**).
+
+## Big Data Applications
+
+**Big Data** refers to large volumes of data that traditional tools cannot process effectively. Key components of Big Data applications include:
+
+- **Data Storage**: Technologies like **HDFS** and **NoSQL databases** for scalable storage.
+- **Data Processing**: Frameworks such as **Apache Hadoop** and **Apache Spark** for distributed processing.
+- **Data Analytics**: Tools like **Apache Hive** and **Tableau** for analysis and visualization.
+- **Machine Learning**: Incorporating algorithms to predict trends from large datasets.
+
+Big Data applications are used in finance, healthcare, retail, and marketing.
+
+## Blockchain Applications
+
+**Blockchain** is a decentralized ledger technology that securely records transactions. Key features include:
+
+- **Decentralization**: Eliminates the need for a central authority.
+- **Immutability**: Transactions cannot be altered once recorded.
+- **Transparency**: All participants can view the transaction history.
+
+Common blockchain applications:
+
+- **Cryptocurrencies**: Digital currencies like **Bitcoin** and **Ethereum**.
+- **Smart Contracts**: Automated contracts written in code (e.g., **Ethereum smart contracts**).
+- **Supply Chain Management**: Tracks goods and verifies authenticity.
+- **Identity Management**: Provides secure and verifiable digital identities.
+
+Blockchain technology is being adopted in finance, healthcare, supply chain, and legal sectors for efficiency and security.
